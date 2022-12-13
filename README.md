@@ -1,6 +1,5 @@
 # Abdullah Alsaleh
 
-![Image of me](eps.leeds.ac.uk/site/custom_scripts/image.php?w=100&amp;h=100&amp;filename=3338_copy.jpg)
 
 Welcome to my GitHub site.
 
