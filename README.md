@@ -22,3 +22,25 @@ Welcome to my GitHub site.
 | `2012 - 2013`     | Masters in Information Technology         | Queensland University of Technology   |
 | `2010 - 2011`     | Bachelors in in Information Technology    | Queensland University of Technology   |
 | `2009`            | Diploma in Information Technology         | Queensland University of Technology   |
+<!--|<td colspan=2>Degrees</td>| !-->
+
+
+
+<!--
+<table style="width:150%">
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td colspan="3">Alfreds Futterkiste</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+!-->
+
