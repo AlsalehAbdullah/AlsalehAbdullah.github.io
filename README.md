@@ -13,7 +13,7 @@ Welcome to my GitHub site.
 
 | Year              | Degree                                    | University                            |
 | ----------------- | ----------------------------------------- | ------------------------------------- |
-| '2020 - Present'  | PhD                                       | University of Leeds                   |
+| `2020 - Present`  | PhD                                       | University of Leeds                   |
 | 2012 - 2013       | Masters in Information Technology         | Queensland University of Technology   |
 | 2010 - 2011       | Bachelors in in Information Technology    | Queensland University of Technology   |
 | 2009              | Diploma in Information Technology         | Queensland University of Technology   |
