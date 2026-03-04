@@ -20,11 +20,11 @@ I am an Assistant Professor in the Information Systems Department at the Faculty
 
 ## Education
 
-| Year              | Degree                                    | University                            |
-| ----------------- | ----------------------------------------- | ------------------------------------- |
-| `2020 - 2025`     | PhD                                       | University of Leeds                   |
-| `2012 - 2013`     | Masters in Information Technology         | Queensland University of Technology   |
-| `2010 - 2011`     | Bachelors in in Information Technology    | Queensland University of Technology   |
-| `2009`            | Diploma in Information Technology         | Queensland University of Technology   |
+| Year              | Degree                                    | University                            | Country                               |
+| ----------------- | ----------------------------------------- | ------------------------------------- | ------------------------------------- |
+| `2020 - 2025`     | PhD                                       | University of Leeds                   | United Kingdom                        |
+| `2012 - 2013`     | Masters in Information Technology         | Queensland University of Technology   | Australia                             |
+| `2010 - 2011`     | Bachelors in in Information Technology    | Queensland University of Technology   | Australia                             |
+| `2009`            | Diploma in Information Technology         | Queensland University of Technology   | Australia                             |
 
 
