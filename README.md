@@ -3,7 +3,7 @@
 </h1>
 
 
-Welcome to my GitHub site.
+<!-- Welcome to my GitHub site. -->
 
 ## Employment
 I am an Assistant Professor in the Information Systems Department at the Faculty of Computing and Information Technology at King Abdulaziz University. My research interests mainly focus on Natural Language Processing, including semantic similarity, question answering, and passage retrieval.
